@@ -8,4 +8,8 @@
 </p>
 
 ## About Laravel
+![index](https://github.com/juanlti/App-Notas-Crud-Messages-Fake/assets/47389717/f62a9cea-70f0-40e0-ae5c-aa430648ee60)
+![show for id](https://github.com/juanlti/App-Notas-Crud-Messages-Fake/assets/47389717/6c3072bc-8e55-4487-aa9c-d4f2a8cb3f70)
+![Update](https://github.com/juanlti/App-Notas-Crud-Messages-Fake/assets/47389717/cd65cf3f-169c-4e6c-aa74-01ba86b1d7f7)
+![Example](https://github.com/juanlti/App-Notas-Crud-Messages-Fake/assets/47389717/4cd30b26-7488-435a-94aa-251f9f40ba50)
 
